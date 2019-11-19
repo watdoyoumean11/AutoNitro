@@ -1,0 +1,16 @@
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\obj\Debug\AutoNitro.csprojAssemblyReference.cache
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\AutoNitro.exe.config
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\AutoNitro.exe
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\AutoNitro.pdb
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Anarchy.dll
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Newtonsoft.Json.Schema.dll
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Leaf.xNet.dll
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\websocket-sharp-with-proxy-support.dll
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Anarchy.pdb
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Newtonsoft.Json.Schema.xml
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\bin\Debug\Leaf.xNet.xml
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\obj\Debug\AutoNitro.csproj.CopyComplete
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\obj\Debug\AutoNitro.exe
+C:\Users\ilink\source\repos\AutoNitro\AutoNitro\obj\Debug\AutoNitro.pdb
