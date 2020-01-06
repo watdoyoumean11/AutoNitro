@@ -19,7 +19,7 @@ namespace AutoNitro
 
             while (string.IsNullOrEmpty(config.Token))
             {
-                Console.Write("Your Discord token: ");
+                Console.Write("NDE5NTc1OTc1MTUyNDUxNTg1.Xga_wA.8kBKXwUFE-gLT2wwJUMsqKJRIf0: ");
                 config.Token = Console.ReadLine();
             }
 
